@@ -11,11 +11,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 Sublime or Atom and someone browser
 
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
